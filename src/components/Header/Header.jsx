@@ -15,7 +15,7 @@ const Header = () => {
         <p>Профессиональная сфера: Frontend, IT,  связь, работа в Интернете</p>
         <p>Образование: МИЭТ(МПиТК незаконченное)</p>
         <p>Опыт разработок: последние 1,5 года компания LEANSQUAD (USA) - более 20 проектов</p>
-        <p>Стек: React, JS, Html, Css, Shopify(so-so) </p>
+        {/* <p>Стек: React, JS, Html, Css, Shopify(so-so) </p> */}
         <h4>Основные навыки - разработка/верстка React-components</h4>
       </div>
     </header>

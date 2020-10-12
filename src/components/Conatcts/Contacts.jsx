@@ -1,4 +1,5 @@
 import React from "react";
+import CustomLink from 'components/CustomLink/CustomLink'
 
 const Contacts = () => {
   return (
