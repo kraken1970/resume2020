@@ -1,12 +1,16 @@
 .header {
-//   text-align: center;
-  font-size: 24px;
+  font-size: 22px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #ffffff;
+  margin-bottom: 60px;
 }
 
 .photo {
-  width: 33vw;
+  width: 25vw;
   margin: 0 auto;
-  margin-bottom: 60px;
 }
 
 .text {

@@ -1,61 +1,26 @@
 import React from "react";
-import CustomLink from 'components/CustomLink/CustomLink'
+import CustomLink from "components/CustomLink/CustomLink";
+import { contacts } from "components/Projects/data";
+import s from "./Contacts.module.scss";
 
 const Contacts = () => {
   return (
-    <div className="contacts-wrap">
+    <div className={s.contacts}>
       <h3>Контактная информация:</h3>
       <p>Адрес: г. Донецк</p>
-      <div className="contact-wrap">
-        <a href="tel:+380713537644" title="Позвоните мне">
-          Телефон: +380713537644
-        </a>
-      </div>
-      <div className="contact-wrap">
-        <a
-          href="viber://chat?number=380713537644"
-          title="Звонок через Viber"
-          className="link-viber"
-        >
-          Viber: +380713537644 <br />
-          Связь через Viber с ПК
-        </a>
-        <a
-          href="http://msng.link/vi/380713537644"
-          title="Напишите мне в Viber"
-          className="link-viber"
-        >
-          Viber: +380713537644 <br />
-          Набрать Viber с мобильного
-        </a>
-      </div>
-      <div className="contact-wrap">
-        <a
-          href="skype:tabaska14?call"
-          title="Звонок через Skype"
-          className="link-skype"
-        >
-          Skype: tabaska14
-        </a>
-      </div>
-      <div className="contact-wrap">
-        <a
-          href="mailto:s.v.minin70@gmail.com"
-          title="Напишите мне"
-          className="link-mail"
-        >
-          E-mail: s.v.minin70@gmail.com
-        </a>
-      </div>
-      <div className="contact-wrap">
-        <a
-          href="tg://resolve?domain=@Serg_Minin"
-          title="Напишите мне"
-          className="link-telegram"
-        >
-          Telegram Сергей Минин
-        </a>
-      </div>
+      {contacts.map((contact) => (
+        <div className={s.contact} key={contact.path}>
+          <CustomLink
+            type={contact.type}
+            name1={contact.name1}
+            name2={contact.name2}
+            Pic={contact.Pic}
+            path={contact.path}
+            title={contact.title}
+          />
+        </div>
+      ))}
+      
     </div>
   );
 };
