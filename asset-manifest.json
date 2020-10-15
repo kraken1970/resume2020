@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/resume2020/static/css/main.dbabc78b.chunk.css",
-    "main.js": "/resume2020/static/js/main.4fa39482.chunk.js",
-    "main.js.map": "/resume2020/static/js/main.4fa39482.chunk.js.map",
+    "main.js": "/resume2020/static/js/main.36505e4b.chunk.js",
+    "main.js.map": "/resume2020/static/js/main.36505e4b.chunk.js.map",
     "runtime-main.js": "/resume2020/static/js/runtime-main.091894a7.js",
     "runtime-main.js.map": "/resume2020/static/js/runtime-main.091894a7.js.map",
     "static/js/2.702e78a5.chunk.js": "/resume2020/static/js/2.702e78a5.chunk.js",
     "static/js/2.702e78a5.chunk.js.map": "/resume2020/static/js/2.702e78a5.chunk.js.map",
     "index.html": "/resume2020/index.html",
-    "precache-manifest.d44afa86a9d143c8f4a6105c3cc68e0f.js": "/resume2020/precache-manifest.d44afa86a9d143c8f4a6105c3cc68e0f.js",
+    "precache-manifest.4387fe6e71c34176b5d2522d0abef526.js": "/resume2020/precache-manifest.4387fe6e71c34176b5d2522d0abef526.js",
     "service-worker.js": "/resume2020/service-worker.js",
     "static/css/main.dbabc78b.chunk.css.map": "/resume2020/static/css/main.dbabc78b.chunk.css.map",
     "static/js/2.702e78a5.chunk.js.LICENSE.txt": "/resume2020/static/js/2.702e78a5.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.091894a7.js",
     "static/js/2.702e78a5.chunk.js",
     "static/css/main.dbabc78b.chunk.css",
-    "static/js/main.4fa39482.chunk.js"
+    "static/js/main.36505e4b.chunk.js"
   ]
 }
