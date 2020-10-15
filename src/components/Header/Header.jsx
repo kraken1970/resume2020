@@ -5,6 +5,7 @@ import s from './Header.module.scss'
 const Header = () => {
   return (
     <header className={s.header}>
+      123
       <div className={s.photo}>
         <img src={photo} alt="my-person" className={s.imgPhoto} />
       </div>
