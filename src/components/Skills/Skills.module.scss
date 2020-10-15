@@ -1,0 +1,31 @@
+.request {
+  color: #000000;
+  font-size: 24px;
+  * {
+    padding: 12px 16px;
+  }
+  h3 {
+    font-weight: bold;
+  }
+}
+
+.skillsTitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.skillsList {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.skill {
+	padding: 8px ;
+	background-color: #e5e5e5;
+	border-radius: 12px;
+	margin-right: 12px;
+	&:last-of-type {
+		margin-right: 0;
+	}
+}

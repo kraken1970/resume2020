@@ -1,10 +1,15 @@
-import React from "react";
-
 import { ReactComponent as Phone } from "assets/phone.svg";
 import { ReactComponent as Viber } from "assets/viber.svg";
 import { ReactComponent as Skype } from "assets/skype.svg";
 import { ReactComponent as Mail } from "assets/mail.svg";
 import { ReactComponent as Telegram } from "assets/telegram.svg";
+
+import Pic01 from "assets/img/pic01.jpg";
+import Pic02 from "assets/img/pic02.jpg";
+import Pic03 from "assets/img/pic03.jpg";
+import Pic04 from "assets/img/pic04.jpg";
+import Pic05 from "assets/img/pic05.jpg";
+import Pic06 from "assets/img/pic06.jpg";
 
 export const skills = [
   "React",
@@ -26,13 +31,24 @@ export const skills = [
 ];
 
 export const projects = [
-  { name: "Scrap Sports", path: "http://scrapsports.qa.leansquad.net/" },
-  { name: "LEANSQAD", path: "https://leansquad.com/" },
-  { name: "SpecCrew", path: "https://speccrew.com/" },
-  { name: "Shop-A-Dev", path: "https://shopadev.com/" },
-  { name: "Focal Point", path: "https://focalpointprocurement.com/" },
-  { name: "USA Houseloans", path: "https://usahouseloans.leansquad.net/" },
-  { name: "Crown & Caliber", path: "https://www.crownandcaliber.com/" },
+  { name: "LEANSQAD", path: "https://leansquad.com/", pic: Pic01 },
+  { name: "SpecCrew", path: "https://speccrew.com/", pic: Pic02 },
+  { name: "Shop-A-Dev", path: "https://shopadev.com/", pic: Pic03 },
+  {
+    name: "Focal Point",
+    path: "https://focalpointprocurement.com/",
+    pic: Pic04,
+  },
+  {
+    name: "USA Houseloans",
+    path: "https://usahouseloans.leansquad.net/",
+    pic: Pic05,
+  },
+  {
+    name: "Crown & Caliber",
+    path: "https://www.crownandcaliber.com/",
+    pic: Pic06,
+  },
 ];
 
 export const contacts = [

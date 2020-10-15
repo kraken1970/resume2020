@@ -1,6 +1,6 @@
 import React from "react";
 import CustomLink from "components/CustomLink/CustomLink";
-import { contacts } from "components/Projects/data";
+import { contacts } from "data";
 import s from "./Contacts.module.scss";
 
 const Contacts = () => {
@@ -19,8 +19,7 @@ const Contacts = () => {
             title={contact.title}
           />
         </div>
-      ))}
-      
+      ))}  
     </div>
   );
 };
