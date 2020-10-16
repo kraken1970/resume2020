@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/resume2020/static/css/main.1d7351c7.chunk.css",
-    "main.js": "/resume2020/static/js/main.056f7e0d.chunk.js",
-    "main.js.map": "/resume2020/static/js/main.056f7e0d.chunk.js.map",
+    "main.css": "/resume2020/static/css/main.d281cce0.chunk.css",
+    "main.js": "/resume2020/static/js/main.7d63b869.chunk.js",
+    "main.js.map": "/resume2020/static/js/main.7d63b869.chunk.js.map",
     "runtime-main.js": "/resume2020/static/js/runtime-main.091894a7.js",
     "runtime-main.js.map": "/resume2020/static/js/runtime-main.091894a7.js.map",
     "static/js/2.ab7394fb.chunk.js": "/resume2020/static/js/2.ab7394fb.chunk.js",
     "static/js/2.ab7394fb.chunk.js.map": "/resume2020/static/js/2.ab7394fb.chunk.js.map",
     "index.html": "/resume2020/index.html",
-    "precache-manifest.98edfbeb4cff4c9b11dd1d77b7d55b9b.js": "/resume2020/precache-manifest.98edfbeb4cff4c9b11dd1d77b7d55b9b.js",
+    "precache-manifest.400a19935277bb2bbfc443ddefac2696.js": "/resume2020/precache-manifest.400a19935277bb2bbfc443ddefac2696.js",
     "service-worker.js": "/resume2020/service-worker.js",
-    "static/css/main.1d7351c7.chunk.css.map": "/resume2020/static/css/main.1d7351c7.chunk.css.map",
+    "static/css/main.d281cce0.chunk.css.map": "/resume2020/static/css/main.d281cce0.chunk.css.map",
     "static/js/2.ab7394fb.chunk.js.LICENSE.txt": "/resume2020/static/js/2.ab7394fb.chunk.js.LICENSE.txt",
     "static/media/mail.8ab4b4e9.svg": "/resume2020/static/media/mail.8ab4b4e9.svg",
-    "static/media/p2.jpg": "/resume2020/static/media/p2.9ebc997a.jpg",
+    "static/media/p2.jpg": "/resume2020/static/media/p2.8db58711.jpg",
     "static/media/phone.d298d140.svg": "/resume2020/static/media/phone.d298d140.svg",
     "static/media/pic01.jpg": "/resume2020/static/media/pic01.eaf87e9d.jpg",
     "static/media/pic02.jpg": "/resume2020/static/media/pic02.ff6e468b.jpg",
@@ -23,12 +23,12 @@
     "static/media/pic06.jpg": "/resume2020/static/media/pic06.706d7ba3.jpg",
     "static/media/skype.01a41590.svg": "/resume2020/static/media/skype.01a41590.svg",
     "static/media/telegram.11a0e428.svg": "/resume2020/static/media/telegram.11a0e428.svg",
-    "static/media/viber.6d88d048.svg": "/resume2020/static/media/viber.6d88d048.svg"
+    "static/media/viber.43a4773a.svg": "/resume2020/static/media/viber.43a4773a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.091894a7.js",
     "static/js/2.ab7394fb.chunk.js",
-    "static/css/main.1d7351c7.chunk.css",
-    "static/js/main.056f7e0d.chunk.js"
+    "static/css/main.d281cce0.chunk.css",
+    "static/js/main.7d63b869.chunk.js"
   ]
 }
