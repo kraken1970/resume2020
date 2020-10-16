@@ -7,8 +7,8 @@ const Contacts = () => {
   return (
     <section className={s.contacts}>
       <div className="container">
-        <h3 className={s.title} >Контактная информация:</h3>
-        <p className={s.adress} >Адрес: г. Донецк</p>
+        <h3 className={s.title}>Контактная информация:</h3>
+        <p className={s.adress}>Адрес: г. Донецк</p>
         {contacts.map((contact) => (
           <div className={s.contact} key={contact.path}>
             <CustomLink
