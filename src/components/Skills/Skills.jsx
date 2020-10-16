@@ -5,6 +5,8 @@ import s from "./Skills.module.scss";
 const Skills = () => {
   return (
     <section className={s.skillsSection} >
+      
+      <div className="container">
       <div className={s.request}>
         <h3>Требования к будущей работе:</h3>
         <p>Должность:Разработчик React, Верстальщик HTML, React</p>
@@ -25,6 +27,9 @@ const Skills = () => {
           })}
         </ul>
       </div>
+      </div>
+      
+      
     </section>
   );
 };

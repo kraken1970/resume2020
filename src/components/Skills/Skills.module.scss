@@ -2,7 +2,7 @@
   color: #000000;
   font-size: 24px;
   * {
-    padding: 12px 16px;
+    padding: 12px 0;
   }
   h3 {
     font-weight: bold;
@@ -13,18 +13,21 @@
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 16px;
+  margin-top: 24px;
 }
 
 .skillsList {
 	display: flex;
-	flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
 }
 
 .skill {
 	padding: 8px ;
 	background-color: #e5e5e5;
 	border-radius: 12px;
-	margin-right: 12px;
+  margin-right: 12px;
+  margin-bottom: 12px;
 	&:last-of-type {
 		margin-right: 0;
 	}
