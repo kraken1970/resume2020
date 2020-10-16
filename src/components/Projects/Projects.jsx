@@ -4,7 +4,7 @@ import s from "./Projects.module.scss";
 
 const Projects = () => {
   return (
-    <section>
+    <section className={s.projects} >
       <div className="container">
         <h3 className={s.title}>Примеры некоторых проектов с моим участием:</h3>
 

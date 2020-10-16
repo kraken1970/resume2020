@@ -21,6 +21,10 @@
   max-width: 1700px;
   margin-left: auto;
   margin-right: auto;
+  line-height: 1.5;
+  @media (max-width: 767px) {
+    font-size: 14px;
+  }
 }
 
 .wrap {
@@ -32,10 +36,13 @@
 .photo {
   width: 15vw;
   margin: 0 auto;
+  @media (max-width: 1199px) {
+    width: 30vw;
+  }
 }
 
 .text {
   * {
-    padding: 16px;
+    padding: 16px 0;
   }
 }

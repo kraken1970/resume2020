@@ -1,3 +1,9 @@
+.projects {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: #e5e5e5;
+}
+
 .title {
   text-align: center;
   font-weight: bold;
@@ -24,6 +30,10 @@
   &:hover {
     box-shadow: 5px 7px 8px 4px #6c6a6a;
   }
+
+  @media (max-width: 767px) {
+    max-width: 100%;
+  }
 }
 
 .projectTitle {
@@ -45,6 +55,18 @@
   width: 100%;
   height: 500px;
   margin-bottom: 10px;
+  @media (max-width: 1199px) {
+    height: 356px;
+  }
+  @media (max-width: 999px) {
+    height: 320px;
+  }
+  @media (max-width: 900px) {
+    height: 480px;
+  }
+  @media (max-width: 767px) {
+    height: 240px;
+  }
 }
 
 .path {
