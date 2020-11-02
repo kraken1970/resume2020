@@ -11,14 +11,7 @@ const Contacts = () => {
         <p className={s.adress}>Адрес: г. Донецк</p>
         {contacts.map((contact) => (
           <div className={s.contact} key={contact.path}>
-            <CustomLink
-              type={contact.type}
-              name1={contact.name1}
-              name2={contact.name2}
-              Pic={contact.Pic}
-              path={contact.path}
-              title={contact.title}
-            />
+            <CustomLink {...contact} />
           </div>
         ))}
       </div>
