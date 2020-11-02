@@ -8,7 +8,7 @@ const Header = () => {
     <header className={s.header}>
       <h1 className={s.title}>Резюме</h1>
       <h2 className={s.subtitle}>
-        Данное прложение написано на React JS. Код на Github:{" "}
+        Данное приложение написано на React JS. Код на Github:{" "}
         <a
           href="https://github.com/kraken1970/resume2020"
           target="_blank"
