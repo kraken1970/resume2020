@@ -50,6 +50,13 @@ export const projects = [
 export const contacts = [
   {
     type: "contact",
+    name1: "Skype: tabaska14",
+    Pic: Skype,
+    path: "skype:tabaska14?call",
+    title: "Звонок через Skype",
+  },
+  {
+    type: "contact",
     name1: "Телефон: +380713537644",
     Pic: Phone,
     path: "tel:+380713537644",
@@ -71,13 +78,7 @@ export const contacts = [
     path: "http://msng.link/vi/79896150335",
     title: "Напишите мне в Viber",
   },
-  {
-    type: "contact",
-    name1: "Skype: tabaska14",
-    Pic: Skype,
-    path: "skype:tabaska14?call",
-    title: "Звонок через Skype",
-  },
+  
   {
     type: "contact",
     name1: "E-mail: s.v.minin70@gmail.com",
