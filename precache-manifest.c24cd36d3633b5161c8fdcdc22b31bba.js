@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "983e4a7f76c5368208926a3c70aef5c5",
+    "revision": "f1ea156c600051d16d9c6418b1ae5af5",
     "url": "/resume2020/index.html"
   },
   {
-    "revision": "ce2783b55d1958707bab",
+    "revision": "ff3dbdadf965a78e3a81",
     "url": "/resume2020/static/css/main.8b7df093.chunk.css"
   },
   {
-    "revision": "becedb598ad75cf1d905",
-    "url": "/resume2020/static/js/2.d096fad3.chunk.js"
+    "revision": "6869808993d8d53a0601",
+    "url": "/resume2020/static/js/2.6baedec3.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/resume2020/static/js/2.d096fad3.chunk.js.LICENSE.txt"
+    "url": "/resume2020/static/js/2.6baedec3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce2783b55d1958707bab",
-    "url": "/resume2020/static/js/main.4e4ef7f9.chunk.js"
+    "revision": "ff3dbdadf965a78e3a81",
+    "url": "/resume2020/static/js/main.e5856e3a.chunk.js"
   },
   {
     "revision": "087cbf435ad21efc9d24",
     "url": "/resume2020/static/js/runtime-main.091894a7.js"
   },
   {
-    "revision": "e17569fa809aa0b71599ed2721d0caa2",
-    "url": "/resume2020/static/media/Resume.e17569fa.pdf"
+    "revision": "cb698862c3f31c051ef3c57d2e8d05d9",
+    "url": "/resume2020/static/media/Resume.cb698862.pdf"
   },
   {
     "revision": "8ab4b4e93585c1dff48f895673cefad5",
@@ -44,20 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume2020/static/media/pic01.eaf87e9d.jpg"
   },
   {
-    "revision": "ff6e468b412fa7328aab14b65160662c",
-    "url": "/resume2020/static/media/pic02.ff6e468b.jpg"
-  },
-  {
     "revision": "27d5d309df8feb30e771170c7856d054",
     "url": "/resume2020/static/media/pic03.27d5d309.jpg"
   },
   {
     "revision": "dacc56d13b4bf26fc922279bdff13070",
     "url": "/resume2020/static/media/pic04.dacc56d1.jpg"
-  },
-  {
-    "revision": "84826979ad54a6b358ce725e0f3126ef",
-    "url": "/resume2020/static/media/pic05.84826979.jpg"
   },
   {
     "revision": "706d7ba38a78d418d7437942b46cdd32",
