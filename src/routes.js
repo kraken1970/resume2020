@@ -7,7 +7,7 @@ export default () => {
   return (
     <Switch>
 
-      <Route path="/resume2020" component={WebPage}  />
+      {/* <Route path="/resume2020" component={WebPage}  /> */}
 
       <Route path="/" component={WebPage} exact />
 
