@@ -32,18 +32,14 @@ export const skills = [
 
 export const projects = [
   { name: "LEANSQAD", path: "https://leansquad.com/", pic: Pic01 },
-  { name: "SpecCrew", path: "https://speccrew.com/", pic: Pic02 },
+  // { name: "SpecCrew", path: "https://speccrew.com/", pic: Pic02 },
   { name: "Shop-A-Dev", path: "https://shopadev.com/", pic: Pic03 },
   {
     name: "Focal Point",
     path: "https://focalpointprocurement.com/",
     pic: Pic04,
   },
-  {
-    name: "USA Houseloans",
-    path: "https://usahouseloans.leansquad.net/",
-    pic: Pic05,
-  },
+ 
   {
     name: "Crown & Caliber",
     path: "https://www.crownandcaliber.com/",
