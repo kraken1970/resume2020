@@ -5,10 +5,10 @@ import { ReactComponent as Mail } from "assets/mail.svg";
 import { ReactComponent as Telegram } from "assets/telegram.svg";
 
 import Pic01 from "assets/img/pic01.jpg";
-import Pic02 from "assets/img/pic02.jpg";
+// import Pic02 from "assets/img/pic02.jpg";
 import Pic03 from "assets/img/pic03.jpg";
 import Pic04 from "assets/img/pic04.jpg";
-import Pic05 from "assets/img/pic05.jpg";
+// import Pic05 from "assets/img/pic05.jpg";
 import Pic06 from "assets/img/pic06.jpg";
 
 export const skills = [
