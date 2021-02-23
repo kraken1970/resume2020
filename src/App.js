@@ -1,16 +1,18 @@
 import React from "react";
-import Header from "components/Header/Header";
-import Skills from "components/Skills/Skills";
-import Projects from "components/Projects/Projects";
-import Contacts from "components/Conatcts/Contacts";
+import Routes from 'routes'
+import { BrowserRouter as Router } from "react-router-dom";
+import TopNav from "components/TopNav/TopNav.jsx";
+
 
 function App() {
+ 
   return (
     <div className="App">
-      <Header />
-      <Skills />
-      <Projects />
-      <Contacts />
+      
+      <Router>
+        <TopNav/>
+        <Routes/>
+      </Router>
     </div>
   );
 }

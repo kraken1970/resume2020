@@ -1,12 +1,21 @@
 import React from "react";
 import classNames from "classnames";
 import photo from "assets/img/p2.jpg";
+import Pdf from "assets/Resume.pdf";
 import s from "./Header.module.scss";
 
 const Header = () => {
   return (
     <header className={s.header}>
       <h1 className={s.title}>Резюме</h1>
+      <a
+        href={Pdf}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={s.resume}
+      >
+        Резюме PDF(для мобильных устройств)
+      </a>
       <h2 className={s.subtitle}>
         Данное приложение написано на React JS. Код на Github:{" "}
         <a
@@ -17,9 +26,10 @@ const Header = () => {
           https://github.com/kraken1970/resume2020
         </a>
       </h2>
+
       <div className={classNames("container", s.wrap)}>
         <div className={s.photo}>
-          <img src={photo} alt="my-person" className={s.imgPhoto} />
+          <img src={photo} alt="my-img" className={s.imgPhoto} />
         </div>
         <div className={s.text}>
           <p>Минин Сергей Викторович</p>
@@ -28,8 +38,8 @@ const Header = () => {
           <p>Профессиональная сфера: Frontend, IT, связь, работа в Интернете</p>
           <p>Образование: МИЭТ(МПиТК незаконченное)</p>
           <p>
-            Опыт разработок: последние 1,5 года компания LEANSQUAD (USA) - более
-            20 проектов
+            Опыт разработок: последние 20 месяцев компания LEANSQUAD (USA) -
+            более 20 проектов
           </p>
           <h4>Основные навыки - разработка/верстка React-components</h4>
         </div>
