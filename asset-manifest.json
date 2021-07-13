@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/resume2020/static/css/main.9d00bc3b.chunk.css",
-    "main.js": "/resume2020/static/js/main.34a1b7e9.chunk.js",
-    "main.js.map": "/resume2020/static/js/main.34a1b7e9.chunk.js.map",
+    "main.css": "/resume2020/static/css/main.3593e36d.chunk.css",
+    "main.js": "/resume2020/static/js/main.c30977e7.chunk.js",
+    "main.js.map": "/resume2020/static/js/main.c30977e7.chunk.js.map",
     "runtime-main.js": "/resume2020/static/js/runtime-main.091894a7.js",
     "runtime-main.js.map": "/resume2020/static/js/runtime-main.091894a7.js.map",
-    "static/js/2.6baedec3.chunk.js": "/resume2020/static/js/2.6baedec3.chunk.js",
-    "static/js/2.6baedec3.chunk.js.map": "/resume2020/static/js/2.6baedec3.chunk.js.map",
+    "static/js/2.8dc90ee0.chunk.js": "/resume2020/static/js/2.8dc90ee0.chunk.js",
+    "static/js/2.8dc90ee0.chunk.js.map": "/resume2020/static/js/2.8dc90ee0.chunk.js.map",
     "index.html": "/resume2020/index.html",
-    "precache-manifest.a9ebaef80de115bc4d009e780d4fbaa9.js": "/resume2020/precache-manifest.a9ebaef80de115bc4d009e780d4fbaa9.js",
+    "precache-manifest.754c9ce685254045c1304a8ed9f1811f.js": "/resume2020/precache-manifest.754c9ce685254045c1304a8ed9f1811f.js",
     "service-worker.js": "/resume2020/service-worker.js",
-    "static/css/main.9d00bc3b.chunk.css.map": "/resume2020/static/css/main.9d00bc3b.chunk.css.map",
-    "static/js/2.6baedec3.chunk.js.LICENSE.txt": "/resume2020/static/js/2.6baedec3.chunk.js.LICENSE.txt",
+    "static/css/main.3593e36d.chunk.css.map": "/resume2020/static/css/main.3593e36d.chunk.css.map",
+    "static/js/2.8dc90ee0.chunk.js.LICENSE.txt": "/resume2020/static/js/2.8dc90ee0.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/resume2020/static/media/Resume.cb698862.pdf",
-    "static/media/mail.8ab4b4e9.svg": "/resume2020/static/media/mail.8ab4b4e9.svg",
+    "static/media/mail.7a652f25.svg": "/resume2020/static/media/mail.7a652f25.svg",
     "static/media/p2.jpg": "/resume2020/static/media/p2.8db58711.jpg",
-    "static/media/phone.d298d140.svg": "/resume2020/static/media/phone.d298d140.svg",
+    "static/media/phone.aa018db0.svg": "/resume2020/static/media/phone.aa018db0.svg",
     "static/media/pic01.jpg": "/resume2020/static/media/pic01.eaf87e9d.jpg",
     "static/media/pic03.jpg": "/resume2020/static/media/pic03.27d5d309.jpg",
     "static/media/pic04.jpg": "/resume2020/static/media/pic04.dacc56d1.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.091894a7.js",
-    "static/js/2.6baedec3.chunk.js",
-    "static/css/main.9d00bc3b.chunk.css",
-    "static/js/main.34a1b7e9.chunk.js"
+    "static/js/2.8dc90ee0.chunk.js",
+    "static/css/main.3593e36d.chunk.css",
+    "static/js/main.c30977e7.chunk.js"
   ]
 }
