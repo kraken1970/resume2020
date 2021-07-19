@@ -1,15 +1,15 @@
-import React from "react";
-import { skills } from "data";
-import s from "./Skills.module.scss";
+import React from 'react'
+import { skills } from 'data'
+import s from './Skills.module.scss'
 
 const Skills = () => {
   return (
     <section className={s.skillsSection}>
-      <div className="container">
+      <div className='container'>
         <div className={s.request}>
           <h3>Требования к будущей работе:</h3>
           <p>Должность:Разработчик React, Верстальщик HTML, React</p>
-          <p>Зарплата (минимум): 1200 USD</p>
+          <p>Зарплата (минимум): 900 USD</p>
           <p>Режим работы: удаленно</p>
           <p>График работы: полный рабочий день</p>
         </div>
@@ -22,13 +22,13 @@ const Skills = () => {
                 <li key={index} className={s.skill}>
                   {skill}
                 </li>
-              );
+              )
             })}
           </ul>
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Skills;
+export default Skills
