@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e967d076855f4c9ddcd667cb22bdb426",
+    "revision": "3d72d876d57ef1ce87c0dff762b99735",
     "url": "/resume2020/index.html"
   },
   {
-    "revision": "edb61202ed2874bcd987",
+    "revision": "34e0937f63f8755a3e85",
     "url": "/resume2020/static/css/main.3593e36d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume2020/static/js/2.8dc90ee0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edb61202ed2874bcd987",
-    "url": "/resume2020/static/js/main.efde3e94.chunk.js"
+    "revision": "34e0937f63f8755a3e85",
+    "url": "/resume2020/static/js/main.9773a63e.chunk.js"
   },
   {
     "revision": "087cbf435ad21efc9d24",
@@ -66,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "43a4773a1355d82f88d4592ed2656d6d",
     "url": "/resume2020/static/media/viber.43a4773a.svg"
+  },
+  {
+    "revision": "1c472081bcc96cdb24105f42cf2fd621",
+    "url": "/resume2020/static/media/whatsapp.1c472081.svg"
   }
 ]);
