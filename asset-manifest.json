@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/resume2020/static/css/main.3593e36d.chunk.css",
-    "main.js": "/resume2020/static/js/main.9773a63e.chunk.js",
-    "main.js.map": "/resume2020/static/js/main.9773a63e.chunk.js.map",
+    "main.css": "/resume2020/static/css/main.3a0b5cd5.chunk.css",
+    "main.js": "/resume2020/static/js/main.e632fd27.chunk.js",
+    "main.js.map": "/resume2020/static/js/main.e632fd27.chunk.js.map",
     "runtime-main.js": "/resume2020/static/js/runtime-main.091894a7.js",
     "runtime-main.js.map": "/resume2020/static/js/runtime-main.091894a7.js.map",
-    "static/js/2.8dc90ee0.chunk.js": "/resume2020/static/js/2.8dc90ee0.chunk.js",
-    "static/js/2.8dc90ee0.chunk.js.map": "/resume2020/static/js/2.8dc90ee0.chunk.js.map",
+    "static/js/2.d84027de.chunk.js": "/resume2020/static/js/2.d84027de.chunk.js",
+    "static/js/2.d84027de.chunk.js.map": "/resume2020/static/js/2.d84027de.chunk.js.map",
     "index.html": "/resume2020/index.html",
-    "precache-manifest.e7e7fd63d2852457172039ff63a31b9f.js": "/resume2020/precache-manifest.e7e7fd63d2852457172039ff63a31b9f.js",
+    "precache-manifest.e1606a634d733215acc962c71dc03be1.js": "/resume2020/precache-manifest.e1606a634d733215acc962c71dc03be1.js",
     "service-worker.js": "/resume2020/service-worker.js",
-    "static/css/main.3593e36d.chunk.css.map": "/resume2020/static/css/main.3593e36d.chunk.css.map",
-    "static/js/2.8dc90ee0.chunk.js.LICENSE.txt": "/resume2020/static/js/2.8dc90ee0.chunk.js.LICENSE.txt",
+    "static/css/main.3a0b5cd5.chunk.css.map": "/resume2020/static/css/main.3a0b5cd5.chunk.css.map",
+    "static/js/2.d84027de.chunk.js.LICENSE.txt": "/resume2020/static/js/2.d84027de.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/resume2020/static/media/Resume.cb698862.pdf",
     "static/media/mail.7a652f25.svg": "/resume2020/static/media/mail.7a652f25.svg",
     "static/media/p2.jpg": "/resume2020/static/media/p2.8db58711.jpg",
@@ -20,6 +20,7 @@
     "static/media/pic03.jpg": "/resume2020/static/media/pic03.27d5d309.jpg",
     "static/media/pic04.jpg": "/resume2020/static/media/pic04.dacc56d1.jpg",
     "static/media/pic06.jpg": "/resume2020/static/media/pic06.706d7ba3.jpg",
+    "static/media/pic07.jpg": "/resume2020/static/media/pic07.67b4396b.jpg",
     "static/media/skype.01a41590.svg": "/resume2020/static/media/skype.01a41590.svg",
     "static/media/telegram.11a0e428.svg": "/resume2020/static/media/telegram.11a0e428.svg",
     "static/media/viber.43a4773a.svg": "/resume2020/static/media/viber.43a4773a.svg",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.091894a7.js",
-    "static/js/2.8dc90ee0.chunk.js",
-    "static/css/main.3593e36d.chunk.css",
-    "static/js/main.9773a63e.chunk.js"
+    "static/js/2.d84027de.chunk.js",
+    "static/css/main.3a0b5cd5.chunk.css",
+    "static/js/main.e632fd27.chunk.js"
   ]
 }
