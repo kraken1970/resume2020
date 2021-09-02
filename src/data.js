@@ -1,16 +1,17 @@
-import { ReactComponent as Phone } from 'assets/phone.svg'
-import { ReactComponent as Viber } from 'assets/viber.svg'
-import { ReactComponent as Skype } from 'assets/skype.svg'
-import { ReactComponent as Mail } from 'assets/mail.svg'
-import { ReactComponent as Telegram } from 'assets/telegram.svg'
-import { ReactComponent as WhatsApp } from 'assets/whatsapp.svg'
+import { ReactComponent as Phone } from 'assets/phone.svg';
+import { ReactComponent as Viber } from 'assets/viber.svg';
+import { ReactComponent as Skype } from 'assets/skype.svg';
+import { ReactComponent as Mail } from 'assets/mail.svg';
+import { ReactComponent as Telegram } from 'assets/telegram.svg';
+import { ReactComponent as WhatsApp } from 'assets/whatsapp.svg';
 
-import Pic01 from 'assets/img/pic01.jpg'
+import Pic01 from 'assets/img/pic01.jpg';
 // import Pic02 from "assets/img/pic02.jpg";
-import Pic03 from 'assets/img/pic03.jpg'
-import Pic04 from 'assets/img/pic04.jpg'
+import Pic03 from 'assets/img/pic03.jpg';
+import Pic04 from 'assets/img/pic04.jpg';
 // import Pic05 from "assets/img/pic05.jpg";
-import Pic06 from 'assets/img/pic06.jpg'
+import Pic06 from 'assets/img/pic06.jpg';
+import Pic07 from 'assets/img/pic07.jpg';
 
 export const skills = [
   'React',
@@ -30,7 +31,7 @@ export const skills = [
   'Parcel',
   'Shopify',
   'Next JS',
-]
+];
 
 export const projects = [
   { name: 'LEANSQAD', path: 'https://leansquad.com/', pic: Pic01 },
@@ -47,7 +48,13 @@ export const projects = [
     path: 'https://www.crownandcaliber.com/',
     pic: Pic06,
   },
-]
+  {
+    name: 'Test Posts',
+    path: 'https://kraken1970.github.io/test-08/',
+    pic: Pic07,
+    code: 'https://github.com/kraken1970/test-08',
+  },
+];
 
 export const contacts = [
   {
@@ -102,4 +109,4 @@ export const contacts = [
     path: 'tg://resolve?domain=@Serg_Minin',
     title: 'Напишите мне',
   },
-]
+];

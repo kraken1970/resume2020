@@ -52,18 +52,15 @@
   height: calc(100% - 20px);
 }
 
-
 .pic {
   width: 100%;
   height: auto;
   margin-bottom: 10px;
-  
 }
 
 .path {
   font-weight: bold;
   margin-bottom: 12px;
-  margin-top: 12px;
   font-size: 16px;
   margin-top: auto;
 }
@@ -72,4 +69,9 @@
   font-style: italic;
   font-size: 24px;
   text-align: center;
+}
+
+.code {
+  font-weight: bold;
+  margin-bottom: 15px;
 }
